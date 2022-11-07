@@ -1,0 +1,17 @@
+{
+  "name": "MD SPC",
+  "version": "1.0.0",
+  "description": "V14 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Cezar Scali",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "discord.js": "^14.6.0",
+    "fis": "^1.10.7",
+    "quick.db": "^9.0.6"
+  }
+}
